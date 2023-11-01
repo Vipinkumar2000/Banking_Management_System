@@ -7,7 +7,7 @@ Follow these steps to set up and run the project on your local machine:
 1. Download Mysqljar and add it do your Java project as a Archives.
 2. Compile the java code.
 3. You will also get a ".properties" file.
-4. In JDBCutil.java , in method "get connection",give  the path of ".properties" file in the refrence "fis".
+4. In JDBCutil.java , in method "get connection",give  the path of ".properties" file in the reference "fis".
 5. Run the application as "BankingApp.java"
 
 
